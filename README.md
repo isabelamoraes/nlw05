@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <img src="" alt="PlantManager">
+    <img src="https://github.com/isabelamoraes/nlw05/blob/main/demo/logo.jpg?raw=true" alt="PlantManager">
   <br>
   <br>
   PLANTMANAGER
@@ -17,8 +17,7 @@
 </p>
 
 <p align="center">
-  <img alt="Web Application Demo" src="" width="70%">
-  <img alt="Mobile Application Demo" src="" width="23%">
+  <img alt="Mobile Application Demo" src="https://github.com/isabelamoraes/nlw05/blob/main/demo/plantmanager.gif?raw=true" width="100%">
 </p>
 
 ## Features
